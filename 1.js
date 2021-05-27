@@ -1,1 +1,0 @@
-var link = "https://rusarkhgf.xyz/index.php?post=jn3b7dp24z3706rd9emq&gclid={gclid}&placement={placement}&adposition={adposition}&campid={campaignid}&device={device}&devicemodel={devicemodel}&creative={creative}&type=k5519&pid=k55";
